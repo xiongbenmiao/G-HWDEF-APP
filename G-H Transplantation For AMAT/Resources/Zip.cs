@@ -14,7 +14,7 @@ using ICSharpCode.SharpZipLib.GZip;
 namespace G_H_Transplantation_For_AMAT.Resources
 {
     /// <summary>
-    /// このmethod: Zip fileの解凍
+    /// このmethod: Zip fileの解凍ddddd
     /// </summary>
     class Zip
     {
