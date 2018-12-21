@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("G-H Transplantation For AMAT")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Generic HWDEF transplantation tool for Applied Materials")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Toshiba")]
+[assembly: AssemblyCompany("NIDEC SANKYO")]
 [assembly: AssemblyProduct("G-H Transplantation For AMAT")]
-[assembly: AssemblyCopyright("Copyright © Toshiba 2018")]
+[assembly: AssemblyCopyright("Copyright © NEDIC SANKYO 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // すべての値を指定するか、下のように '*' を使ってビルドおよびリビジョン番号を 
 // 既定値にすることができます:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.5.0.0")]
+[assembly: AssemblyFileVersion("1.5.0.0")]

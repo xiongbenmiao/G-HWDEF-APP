@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace G_H_Transplantation_For_AMAT
@@ -16,7 +13,10 @@ namespace G_H_Transplantation_For_AMAT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+           Select_Operation f1 = new Select_Operation();
+            f1.Show();
+           Application.Run();
         }
     }
 }
